@@ -1,1 +1,2 @@
-Струков Лев Олегович
+# Author Information
+Name: Lev Strukov
